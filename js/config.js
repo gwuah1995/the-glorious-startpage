@@ -289,19 +289,39 @@ class Config {
 		// A list of websites that will be generated and put on the dock
 		const dockSites = [
 			{
+				site: 'Youtube',
+				icon: 'youtube',
+				url: 'https://www.youtube.com/feed/subscriptions'
+			},
+			{
+				site: 'Instagram',
+				icon: 'instagram',
+				url: 'https://instagram.com/'
+			},
+			{
 				site: 'Reddit',
 				icon: 'reddit',
 				url: 'https://reddit.com/'
 			},
 			{
-				site: 'Github',
-				icon: 'github',
-				url: 'https://github.com/'
+				site: 'LinkedIn',
+				icon: 'linkedin',
+				url: 'https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin'
 			},
 			{
-				site: 'Youtube',
-				icon: 'youtube',
-				url: 'https://youtube.com/'
+				site: 'Tweakers',
+				icon: 'tweakers',
+				url: 'https://tweakers.net/my.tnet/login/?location=https%3a//tweakers.net/'
+			},
+			{
+				site: 'Home Assistant',
+				icon: 'homeassistant',
+				url: 'http://192.168.1.48:8123'
+			},
+			{
+				site: 'Ziggo Go',
+				icon: 'ziggogo',
+				url: 'https://www.ziggogo.tv/nl.html'
 			}
 		];
 
