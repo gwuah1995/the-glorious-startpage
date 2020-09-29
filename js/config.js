@@ -52,6 +52,12 @@ class Config {
 		// A list of websites that will be generated and put on the web menu
 		const webSites = [
 			{
+				site: 'Ace & Tate',
+				icon: 'aceandtate',
+				url: 'https://www.aceandtate.com/nl/',
+				category: 'shop'
+			},
+			{
 				site: 'Amazon',
 				icon: 'amazon',
 				url: 'https://amazon.com/',
