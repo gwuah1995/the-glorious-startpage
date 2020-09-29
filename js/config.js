@@ -235,12 +235,6 @@ class Config {
 				category: 'security'
 			},
 			{
-				site: 'Soundcloud',
-				icon: 'soundcloud',
-				url: 'https://soundcloud.com/',
-				category: 'media'
-			},
-			{
 				site: 'Tele2',
 				icon: 'tele2',
 				url: 'https://www.tele2.nl/mijn-tele2/',
