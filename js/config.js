@@ -52,10 +52,10 @@ class Config {
 		// A list of websites that will be generated and put on the web menu
 		const webSites = [
 			{
-				site: 'Reddit',
-				icon: 'reddit',
-				url: 'https://reddit.com/',
-				category: 'social'
+				site: 'Amazon',
+				icon: 'amazon',
+				url: 'https://amazon.com/',
+				category: 'shop'
 			},
 			{
 				site: 'Github',
@@ -64,10 +64,10 @@ class Config {
 				category: 'development'
 			},
 			{
-				site: 'Youtube',
-				icon: 'youtube',
-				url: 'https://youtube.com/',
-				category: 'media'
+				site: 'Gitlab',
+				icon: 'gitlab',
+				url: 'https://gitlab.com/',
+				category: 'development'
 			},
 			{
 				site: 'Instagram',
@@ -76,16 +76,10 @@ class Config {
 				category: 'social'
 			},
 			{
-				site: 'Gitlab',
-				icon: 'gitlab',
-				url: 'https://gitlab.com/',
-				category: 'development'
-			},
-			{
-				site: 'Twitch',
-				icon: 'twitch',
-				url: 'https://twitch.tv/',
-				category: 'media'
+				site: 'MEGA',
+				icon: 'mega',
+				url: 'https://mega.nz/',
+				category: 'cloud'
 			},
 			{
 				site: 'Netflix',
@@ -100,16 +94,22 @@ class Config {
 				category: 'information'
 			},
 			{
-				site: 'Amazon',
-				icon: 'amazon',
-				url: 'https://amazon.com/',
-				category: 'shop'
+				site: 'Reddit',
+				icon: 'reddit',
+				url: 'https://reddit.com/',
+				category: 'social'
 			},
 			{
-				site: 'MEGA',
-				icon: 'mega',
-				url: 'https://mega.nz/',
-				category: 'cloud'
+				site: 'Twitch',
+				icon: 'twitch',
+				url: 'https://twitch.tv/',
+				category: 'media'
+			},
+			{
+				site: 'Youtube',
+				icon: 'youtube',
+				url: 'https://youtube.com/',
+				category: 'media'
 			}
 		];
 
