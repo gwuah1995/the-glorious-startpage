@@ -15,9 +15,6 @@ class Config {
 			'w/': {
 				urlPrefix: 'https://wikipedia.org/wiki/'
 			},
-			'a/': {
-				urlPrefix: 'https://amazon.com/s?k='	
-			},
 			'y/': {
 				urlPrefix: 'https://youtube.com/results?search_query='
 			}
