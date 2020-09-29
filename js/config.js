@@ -145,12 +145,6 @@ class Config {
 				category: 'games'
 			},
 			{
-				site: 'Lidl Plus',
-				icon: 'lidlplus',
-				url: 'https://www.lidl-shop.nl/',
-				category: 'shop'
-			},
-			{
 				site: 'LinkedIn',
 				icon: 'linkedin',
 				url: 'https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin',
