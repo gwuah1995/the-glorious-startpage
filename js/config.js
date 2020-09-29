@@ -61,6 +61,12 @@ class Config {
 				category: 'shop'
 			},
 			{
+				site: 'AlleFolderes',
+				icon: 'allefolderes',
+				url: 'https://www.allefolders.nl/',
+				category: 'shop'
+			},
+			{
 				site: 'Amazon',
 				icon: 'amazon',
 				url: 'https://amazon.com/',
