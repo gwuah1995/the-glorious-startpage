@@ -58,6 +58,12 @@ class Config {
 				category: 'shop'
 			},
 			{
+				site: 'AliExpress',
+				icon: 'aliexpress',
+				url: 'https://www.aliexpress.com/',
+				category: 'shop'
+			},
+			{
 				site: 'Amazon',
 				icon: 'amazon',
 				url: 'https://amazon.com/',
