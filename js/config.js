@@ -70,6 +70,36 @@ class Config {
 				category: 'shop'
 			},
 			{
+				site: 'ASN Bank',
+				icon: 'asnbank',
+				url: 'https://www.asnbank.nl/home.html',
+				category: 'finance'
+			},
+			{
+				site: 'Autoscout24',
+				icon: 'autoscout24',
+				url: 'https://www.autoscout24.nl',
+				category: 'shop'
+			},
+			{
+				site: 'Bol',
+				icon: 'bol',
+				url: 'https://www.bol.com/nl/index.html',
+				category: 'shop'
+			},
+			{
+				site: 'DEGIRO',
+				icon: 'degiro',
+				url: 'https://trader.degiro.nl/login/nl#/login',
+				category: 'finance'
+			},
+			{
+				site: 'EdX',
+				icon: 'edx',
+				url: 'https://courses.edx.org/login',
+				category: 'information'
+			},
+			{
 				site: 'Github',
 				icon: 'github',
 				url: 'https://github.com/',
