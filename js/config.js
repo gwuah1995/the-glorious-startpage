@@ -117,7 +117,7 @@ class Config {
 			{
 				site: 'Ikea',
 				icon: 'ikea',
-				url: 'https://www.ikea.com/nl/nl/profile/login/',
+				url: 'https://www.ikea.com/nl/',
 				category: 'shop'
 			},
 			{
@@ -147,7 +147,7 @@ class Config {
 			{
 				site: 'LinkedIn',
 				icon: 'linkedin',
-				url: 'https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin',
+				url: 'https://www.linkedin.com/',
 				category: 'social'
 			},
 			{
@@ -237,7 +237,7 @@ class Config {
 			{
 				site: 'Tweakers',
 				icon: 'tweakers',
-				url: 'https://tweakers.net/my.tnet/login/?location=https%3a//tweakers.net/',
+				url: 'https://tweakers.net/',
 				category: 'media'
 			},
 			{
@@ -291,12 +291,12 @@ class Config {
 			{
 				site: 'LinkedIn',
 				icon: 'linkedin',
-				url: 'https://www.linkedin.com/login?fromSignIn=true&trk=guest_homepage-basic_nav-header-signin'
+				url: 'https://www.linkedin.com/'
 			},
 			{
 				site: 'Tweakers',
 				icon: 'tweakers',
-				url: 'https://tweakers.net/my.tnet/login/?location=https%3a//tweakers.net/'
+				url: 'https://tweakers.net/'
 			},
 			{
 				site: 'Home Assistant',
