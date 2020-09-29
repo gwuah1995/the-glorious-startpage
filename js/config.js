@@ -27,9 +27,9 @@ class Config {
 	getSearchEngines = () => {
 
 		const searchEngines = {
-			'google': {
-				name: 'Google',
-				prefix: 'https://www.google.com/search?q='
+			'qwant': {
+				name: 'Qwant',
+				prefix: 'https://www.qwant.com/?q='
 			},
 			'duckduckgo': {
 				name: 'Duckduckgo',
