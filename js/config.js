@@ -69,7 +69,7 @@ class Config {
 			{
 				site: 'Amazon',
 				icon: 'amazon',
-				url: 'https://amazon.com/',
+				url: 'https://amazon.nl/',
 				category: 'shop'
 			},
 			{
