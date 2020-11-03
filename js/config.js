@@ -133,6 +133,12 @@ class Config {
 				category: 'social'
 			},
 			{
+				site: 'Jellyfin',
+				icon: 'jellyfin',
+				url: 'http://192.168.1.48:8096',
+				category: 'home'
+			},
+			{
 				site: 'Kickstarter',
 				icon: 'kickstarter',
 				url: 'https://www.kickstarter.com/login?ref=nav',
@@ -308,6 +314,11 @@ class Config {
 				site: 'Home Assistant',
 				icon: 'homeassistant',
 				url: 'http://192.168.1.48:8123'
+			},
+			{
+				site: 'Jellyfin',
+				icon: 'jellyfin',
+				url: 'http://192.168.1.48:8096'
 			},
 			{
 				site: 'Ziggo Go',
