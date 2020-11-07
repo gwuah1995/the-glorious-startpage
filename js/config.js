@@ -117,7 +117,7 @@ class Config {
 			{
 				site: 'Home Assistant',
 				icon: 'homeassistant',
-				url: 'http://192.168.1.48:8123/',
+				url: 'http://192.168.1.46:8123/',
 				category: 'home'
 			},
 			{
@@ -135,7 +135,7 @@ class Config {
 			{
 				site: 'Jellyfin',
 				icon: 'jellyfin',
-				url: 'http://192.168.1.48:8096/',
+				url: 'http://192.168.1.46:8096/',
 				category: 'home'
 			},
 			{
@@ -313,12 +313,12 @@ class Config {
 			{
 				site: 'Home Assistant',
 				icon: 'homeassistant',
-				url: 'http://192.168.1.48:8123/'
+				url: 'http://192.168.1.46:8123/'
 			},
 			{
 				site: 'Jellyfin',
 				icon: 'jellyfin',
-				url: 'http://192.168.1.48:8096/'
+				url: 'http://192.168.1.46:8096/'
 			},
 			{
 				site: 'Ziggo Go',
