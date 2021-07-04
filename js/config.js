@@ -49,12 +49,6 @@ class Config {
 		// A list of websites that will be generated and put on the web menu
 		const webSites = [
 			{
-				site: 'Ace & Tate',
-				icon: 'aceandtate',
-				url: 'https://www.aceandtate.com/nl/',
-				category: 'shop'
-			},
-			{
 				site: 'AliExpress',
 				icon: 'aliexpress',
 				url: 'https://www.aliexpress.com/',
@@ -137,12 +131,6 @@ class Config {
 				icon: 'jellyfin',
 				url: 'http://192.168.1.46:8096/',
 				category: 'home'
-			},
-			{
-				site: 'Kickstarter',
-				icon: 'kickstarter',
-				url: 'https://www.kickstarter.com/login?ref=nav',
-				category: 'shop'
 			},
 			{
 				site: 'Kraket',
@@ -257,12 +245,6 @@ class Config {
 				icon: 'twitch',
 				url: 'https://twitch.tv/',
 				category: 'media'
-			},
-			{
-				site: 'VUNet',
-				icon: 'vunet',
-				url: 'https://vunet.login.vu.nl',
-				category: 'school'
 			},
 			{
 				site: 'Youtube',
