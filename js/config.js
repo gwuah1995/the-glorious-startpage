@@ -133,12 +133,6 @@ class Config {
 				category: 'home'
 			},
 			{
-				site: 'Kraket',
-				icon: 'kraket',
-				url: 'https://kraket.nl/en',
-				category: 'social'
-			},
-			{
 				site: 'Lichess',
 				icon: 'lichess',
 				url: 'https://lichess.org/',
